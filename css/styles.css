@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(184, 152, 207);
+}
+
 .bio {
   margin: 12px;
   border: 2px solid green;
@@ -16,20 +20,9 @@
   float: right;
 }
 
-.interests {
-  margin: 12px;
-  border: 2px solid green;
-  padding: 4px;
-  background-color: orange;
-}
-
 .jumbotron {
-
+  background-color: purple !important;
 }
-
-.my-class {
-  margin: 12px;
-  border: 2px solid green;
-  padding: 4px;
-  background-color: orange;
+panel .panel-info {
+  color: solid purple;
 }
