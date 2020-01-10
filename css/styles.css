@@ -1,3 +1,32 @@
+.bio {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+  text-align: left;
+}
+
+.container {
+
+}
+
+.gothcoffee {
+  max-width:30%;
+  height:auto;
+  float: right;
+}
+
+.interests {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+
+.jumbotron {
+
+}
+
 .my-class {
   margin: 12px;
   border: 2px solid green;
