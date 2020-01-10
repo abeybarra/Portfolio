@@ -1,12 +1,16 @@
 body {
   background-color: rgb(184, 152, 207);
+  font-family: 'Franklin Gothic Medium';
 }
 
+.big{
+  font-size: x-large;
+}
 .bio {
   margin: 12px;
-  border: 2px solid green;
+  border: 2px solid rgb(0, 0, 0);
   padding: 4px;
-  background-color: orange;
+  background-color: rgb(247, 199, 239);
   text-align: left;
 }
 
@@ -23,6 +27,18 @@ body {
 .jumbotron {
   background-color: purple !important;
 }
-panel .panel-info {
-  color: solid purple;
+
+.panel {
+  background-color: rgb(210, 171, 247);
+}
+
+.panel > .panel-heading {
+  background-image: none;
+  background-color: rgb(238, 124, 232);
+  color: rgb(167, 28, 148);
+}
+
+.quote-color {
+  text-align: right;
+  color: azure;
 }
