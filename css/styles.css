@@ -46,6 +46,8 @@ body {
 
 .projects {
   float: right;
+  font-size: 25px;
+  font-family:'Times New Roman';
 }
 
 .quote-color {
